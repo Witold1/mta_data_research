@@ -29,6 +29,9 @@ Current **report available**, see [[html]](https://github.com/Witold1/mta_data_r
       <td colspan="2"><img src="./figures/internal/VIZ5.png?raw=true" alt="VIZ5" width="650" height="200"></td>
     </tr>
     <tr>
+      <td colspan="2"><img src="./figures/internal/VIZ6_bars.png?raw=true" alt="DA6" width="650" height="200"></td>
+    </tr>
+    <tr>
       <td colspan="2"><img src="./figures/internal/DA6.png?raw=true" alt="DA6" width="650" height="350"></td>
     </tr>
   </tbody>
