@@ -1,12 +1,15 @@
 ## 🚇 Project
-Ⓜ️ **NYC MTA Turnstile Usage Dataset**
+**NYC MTA Turnstile Usage Dataset**
 
 ## 📖 Task description
 We have a **pool of questions** and **the dataset source** to use to find answers in empirical way.
 
-> Placeholder description
+* Dataset provides data on Turnstile (i.e. tripod gates) usage in NYC MTA (Ⓜ️ subway)
+  * Could be used as a proxy of subway usage and people movements over the time
+* Date interval we work with is first three month of 2013, Jan 1st to March 31st
+  * Some questions require different temporal slices but whole interval
 
-Current **report available**, see [[html]](https://github.com/Witold1/mta_data_research/blob/master/reports/Report%20notes%20and%20processing%20code_final.html) | [[ipynb]](https://nbviewer.org/github/Witold1/mta_data_research/blob/master/notebooks/Report%20notes%20and%20processing%20code_final.ipynb)
+Current **report available**, see [[html]](https://htmlpreview.github.io/?https://github.com/Witold1/mta_data_research/blob/master/reports/Report%20notes%20and%20processing%20code_final.html) | [[ipynb]](https://nbviewer.org/github/Witold1/mta_data_research/blob/master/notebooks/Report%20notes%20and%20processing%20code_final.ipynb)
 <!--- Current **raw report available** on demand. --->
 
 ## 📊 Selected charts
@@ -29,7 +32,7 @@ Current **report available**, see [[html]](https://github.com/Witold1/mta_data_r
       <td colspan="2"><img src="./figures/internal/VIZ5.png?raw=true" alt="VIZ5" width="650" height="200"></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="./figures/internal/VIZ6_bars.png?raw=true" alt="DA6" width="650" height="200"></td>
+      <td colspan="2"><img src="./figures/internal/DA6_bars.png?raw=true" alt="DA6" width="650" height="250"></td>
     </tr>
     <tr>
       <td colspan="2"><img src="./figures/internal/DA6.png?raw=true" alt="DA6" width="650" height="350"></td>
