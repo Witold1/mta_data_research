@@ -1,0 +1,3 @@
+*.pptx
+*.html
+!*final*.html
